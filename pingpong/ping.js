@@ -18,7 +18,7 @@ const redBase = {
     height: 100,
     score: 0,
     color: "red",
-    speed: 10 // Speed of red base movement
+    speed: 10 
 };
 
 const bridge = {
